@@ -47,3 +47,4 @@
 - 200-day backdated change 4 (2025-01-06T12:00:00)
 - 200-day backdated change 5 (2025-01-08T12:00:00)
 - 200-day backdated change 6 (2025-01-10T12:00:00)
+- 200-day backdated change 7 (2025-01-11T12:00:00)
