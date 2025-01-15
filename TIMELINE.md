@@ -49,3 +49,4 @@
 - 200-day backdated change 6 (2025-01-10T12:00:00)
 - 200-day backdated change 7 (2025-01-11T12:00:00)
 - 200-day backdated change 8 (2025-01-13T12:00:00)
+- 200-day backdated change 9 (2025-01-15T12:00:00)
