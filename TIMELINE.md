@@ -80,3 +80,4 @@
 - 200-day backdated change 37 (2025-03-07T12:00:00)
 - 200-day backdated change 38 (2025-03-09T12:00:00)
 - 200-day backdated change 39 (2025-03-11T12:00:00)
+- 200-day backdated change 40 (2025-03-13T12:00:00)
