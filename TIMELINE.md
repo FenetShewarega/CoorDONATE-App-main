@@ -112,3 +112,4 @@
 - 200-day backdated change 69 (2025-05-05T12:00:00)
 - 200-day backdated change 70 (2025-05-07T12:00:00)
 - 200-day backdated change 71 (2025-05-09T12:00:00)
+- 200-day backdated change 72 (2025-05-10T12:00:00)
