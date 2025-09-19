@@ -184,3 +184,4 @@
 - 200-day backdated change 141 (2025-09-14T12:00:00)
 - 200-day backdated change 142 (2025-09-15T12:00:00)
 - 200-day backdated change 143 (2025-09-17T12:00:00)
+- 200-day backdated change 144 (2025-09-19T12:00:00)
