@@ -232,3 +232,4 @@
 - 200-day backdated change 189 (2025-12-10T12:00:00)
 - 200-day backdated change 190 (2025-12-12T12:00:00)
 - 200-day backdated change 191 (2025-12-14T12:00:00)
+- 200-day backdated change 192 (2025-12-16T12:00:00)
